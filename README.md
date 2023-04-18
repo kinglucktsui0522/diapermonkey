@@ -1,2 +1,0 @@
-# diapermonkey
-value investing
